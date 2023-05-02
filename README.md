@@ -1,6 +1,6 @@
 # Melcloud Microservice
 
-App for communication with the MelCloud API.
+App for communication with the MelCloud API. A part of Simens SmartHome setup.
 
 
 ### Features
@@ -10,7 +10,31 @@ App for communication with the MelCloud API.
 
 
 ### Setup
-Build and deploy dockerimage locally by running app/build_and_deploy.sh
+* Create a config.json in app folder with the following format:
+
+```json
+{
+  "username": "",
+  "password": ""
+}
+
+```
+
+* Build and deploy dockerimage locally by running app/build_and_deploy.sh
+
+
+### Limitations
+* This app is as of now ment for local deployment. If you want to deploy this to a cloud service, implementation of 
+additional security and authentication is needed (this is a work in progress).
+
+* You can only control one device pr class instance.
+
+* As of now, not all functions are implimented. 
+
+
+# PULL REQUESTS ARE WELCOME!
+
+
 
 
 
