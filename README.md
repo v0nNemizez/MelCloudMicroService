@@ -1,6 +1,6 @@
 # Melcloud Microservice
 
-App for communication with the MelCloud API. A part of Simens SmartHome setup.
+*App for communication with the MelCloud API. A part of Simens SmartHome setup.*
 
 
 ### Features
