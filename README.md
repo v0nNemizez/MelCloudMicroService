@@ -29,7 +29,7 @@ additional security and authentication is needed (this is a work in progress).
 
 * You can only control one device pr class instance.
 
-* As of now, not all functions are implimented. 
+* As of now, not all ATA-heater functions are implimented. 
 
 
 # PULL REQUESTS ARE WELCOME!
