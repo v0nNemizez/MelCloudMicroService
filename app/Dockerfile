@@ -9,7 +9,7 @@ RUN mkdir app
 COPY melcloud.py /app
 COPY app.py /app
 COPY req.txt /app
-COPY config.json /app
+#COPY config.json /app
 
 WORKDIR /app
 RUN pip3 install -r req.txt
