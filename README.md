@@ -1,5 +1,7 @@
 # Melcloud Microservice
 
+[![Qodana](https://github.com/v0nNemizez/MelCloudMicroService/actions/workflows/code_quality.yml/badge.svg)](https://github.com/v0nNemizez/MelCloudMicroService/actions/workflows/code_quality.yml)
+
 *App for communication with the MelCloud API. A part of Simens SmartHome setup.*
 
 
